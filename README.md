@@ -1,37 +1,26 @@
 # Alif Afiq - Accounting Portfolio
 ## About
-With a Bachelor's degree in Information Accounting and Information Systems, I am building my career at the intersection of data analytics and accounting awareness. I bring a detail-oriented approach to analysing data and a growing proficiency in tools like SQL, Python, Power BI, Tableau, and Excel.
-My academic foundation has equipped me with technical and business insights, while hands-on projects have sharpened my ability to extract, visualise, and communicate data-driven stories. I have built dashboards, written analytical SQL queries, and tackled real-world data challenges, all with a focus on turning numbers into meaningful actions.
-Outside of work, I actively pursue personal data projects and continuously learn new tools and techniques to enhance my analytical toolkit. I am especially motivated by opportunities to solve practical problems using data and to support smarter, evidence-based decision-making in any organisation I contribute to.
+With a Bachelor's degree in Accounting and Information Systems, I am building my career at the intersection of accounting practices and technology. This portfolio showcases my skills in financial reporting, internal controls, tax fundamentals, and the use of accounting systems such as SQL Accounting, MYOB, Xero, and AutoCount. My academic training and hands-on projects have equipped me to handle practical accounting scenarios such as journal entries, reconciliations, and reporting. I have applied accounting principles through simulated business cases and am continuously strengthening my understanding of audit procedures, compliance requirements, and financial analysis.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This repository serves as a space to demonstrate my accounting competencies, document project-based learning, and track progress as I grow toward becoming a well-rounded accounting professional.
+
 
 ## Table of Contents
 
 **Portfolio Projects**
 
-- [Forte Grocery Inventory Analysis Dashboard](#forte-grocery-inventory-analysis-dashboard)
+- [Small Business Bookkeeping Simulation](#small-business-bookkeeping-simulation) (ongoing project)
   
-	- [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
-  
-	- [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
 
-- [House Price Prediction using Machine Learning](#house-price-prediction-using-machine-learning)
-  
-  	- [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
 
-- [Pizzozo Annual Sales Report Dashboard](#pizzozo-annual-sales-report-dashboard)
+- [Accounts Receivable Aging & Collection Dashboard](#accounts-receivable-aging-&-collection-dashboard) (ongoing project)
   
-	- [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
+
+
+- [Tax Computation & Reporting Mini Project](#tax-computation-&-reporting-mini-project) (ongoing project)
   
-	- [GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
   
-- [All Day Bike Dashboard](#all-day-bike-dashboard)
   
-	- [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
-  
-	- [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
-  	  
 - [Power BI](https://github.com/AlifAfiq/Sales-Dashboard-Common-)
   
 - [Excel / Google Sheets](https://github.com/AlifAfiq/Simple-Excel-Dashboard)
@@ -44,87 +33,84 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ## Portfolio Projects
-In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list accounting projects briefly describing the technology stack used to solve cases.
 
-### Forte Grocery Inventory Analysis Dashboard 
+### Small Business Bookkeeping Simulation
+
+(ongoing project)
 
 **Link:**
 
-   - [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
 
-   - [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
+**Description:** A simulation of basic accounting operations for a small business, including recording daily transactions, managing ledgers, and generating financial reports.
 
-**Description:** This project delivers insights and solutions through Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. It includes transforming raw CSV data, validating with SQL, cleaning the data, and using Power BI with Power Query and DAX for visualisation.
+**Skill:**
 
-**Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
+- Journal entries & double-entry accounting
 
-**Tools:** SQL and Power BI 
+- Financial statement preparation
 
-**Outcome:** The dashboard reveals that Beverages rank second in profit (20%) despite having the lowest sales volume, likely due to their high average unit price (3x Fruits & Vegetables). The dashboard highlights a major risk: current stock for items marked for reorder is only at 50% of the desired level. Supplier analysis shows that several vendors such as Rhynoodle, Mydo, and Skivee consistently deliver over 80 units in under 60 days, with Rhynoodle being the most efficient at 33 days.
+- Period-end closing
+
+- Understanding of full accounting cycle
+
+**Tools:** SQL Accounting / Excel
+
+**Outcome:** A complete set of simulated books including a trial balance, income statement, and balance sheet, supported with screenshots or exported reports to showcase practical accounting knowledge.
 
 
-### House Price Prediction using Machine Learning
+
+### Accounts Receivable Aging & Collection Dashboard
+
+(ongoing project)
 
 **Link:** 
-   - [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
 
-**Goal:** To build and evaluate machine learning models that can accurately predict house prices based on various numerical features such as square footage, number of bedrooms, bathrooms, and neighbourhood quality.
+**Description:** A practical project to simulate the management of accounts receivable using aging analysis, helping identify overdue invoices and prioritize collections.
 
-**Description:** 
-This project applies supervised learning to a structured housing dataset to forecast house prices. The steps include:
+**Skill:**
 
-- Exploratory Data Analysis (EDA)
+- AR management
 
-- Model training using Linear Regression and Random Forest Regressor
+- Aging analysis
 
-- Evaluation using metrics like MAE, MSE, RMSE, and R²
+- Data cleaning & reporting
 
-- Result interpretation and proposing improvements
+- Visual presentation of receivables
 
-**Outcomes:**
-- Linear Regression performed best:
+**Tools:** Excel / Power BI / SQL Accounting
 
-	- MAE: 8174.58
+**Outcome:** An interactive dashboard and aging report that highlights overdue accounts and collection status, demonstrating the ability to manage receivables and support cash flow control.
 
-	- RMSE: 10071.48
 
-	- R²: 0.9984
-
-- Random Forest Regressor had slightly worse performance across all metrics.
-
-- The model can assist real estate agencies, developers, and investors in making smarter pricing decisions.
   
 
-### Pizzozo Annual Sales Report Dashboard
+### Tax Computation & Reporting Mini Project
+
+(ongoing project)
 
 **Link:** 
 
-   - [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
 
-   - [GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
+**Description:** A mini project simulating basic tax calculations and preparing simplified tax reports, based on hypothetical monthly business transactions.
 
-**Description:** This project involves creating an interactive annual sales report dashboard for a Pizzozo, focusing on revenue, orders, and sales by pizza category and size. It includes transforming raw CSV data, validating with SQL, cleaning the data, and using Power BI with Power Query and DAX for visualization.
+**Skill:**
 
-**Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
+- Basic tax computation (e.g., SST/GST/income tax)
 
-**Tools:** SQL and Power BI
+- Transaction categorization for tax
 
-**Outcomes:** Orders are highest on Friday, followed by Thursday and Saturday. The peak orders are in July, followed by May and January. Classic categories contribute just slightly more sales than other categories. Large pizza contributes significantly the most sales than other sizes. The Thai Chicken Pizza and the Barbeque Pizza contribute the most revenue. The Classic Deluxe Pizza contribute slightly more total orders than other pizzas.
+- Reporting and documentation
+
+- Understanding tax compliance
+
+**Tools:** Excel / Word / SQL Accounting
+
+**Outcome:** A summarized tax report with supporting calculations, showing clear steps from raw transactions to tax payable—demonstrating awareness of tax processes and compliance requirements.
 
 
-### All Day Bike Dashboard
 
-**Link:** 
 
-   - [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
-
-   - [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
- 
-**Objectives:** To develop a dashboard for All Day Bike which showcases key performance metrics to support data-driven decision making. To overview the revenue generated hourly. To observe the profit and revenue trends. To gain valuable insights based on seasonal factor and rider demographics. To serve an insight on potential price adjustments for next year based on the data analysis.
-
-**Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
-
-**Tools:** SQL and Power BI
 
 
 ## Education
