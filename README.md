@@ -9,7 +9,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
 
 **Portfolio Projects**
 
-- [Small Business Bookkeeping Simulation](#small-business-bookkeeping-simulation) (ongoing project)
+- [Small Business Bookkeeping Simulation](#small-business-bookkeeping-simulation) 
   
 
 
@@ -40,7 +40,7 @@ In this section, I will list accounting projects briefly describing the technolo
 (ongoing project)
 
 **Link:**
-
+  - [GitHub Repository](https://github.com/AlifAfiq/Small-Business-Bookkeeping-Simulation)
 
 **Description:** A simulation of basic accounting operations for a small business, including recording daily transactions, managing ledgers, and generating financial reports.
 
