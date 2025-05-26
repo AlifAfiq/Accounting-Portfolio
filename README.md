@@ -17,7 +17,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
   
 
 
-- [Tax Computation & Reporting Mini Project](#tax-computation-&-reporting-mini-project) (ongoing project)
+- [Tax Computation & Reporting Mini Project](#tax-computation-&-reporting-mini-project) 
   
   
   
@@ -87,10 +87,9 @@ In this section, I will list accounting projects briefly describing the technolo
 
 ### Tax Computation & Reporting Mini Project
 
-(ongoing project)
-
 **Link:** 
 
+  - [GitHub Repository](https://github.com/AlifAfiq/Tax-Computation-Reporting-Mini-Project)
 
 **Description:** A mini project simulating basic tax calculations and preparing simplified tax reports, based on hypothetical monthly business transactions.
 
