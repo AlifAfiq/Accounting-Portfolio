@@ -13,7 +13,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
   
 
 
-- [Accounts Receivable Aging & Collection Dashboard](#accounts-receivable-aging-&-collection-dashboard) (ongoing project)
+- [Accounts Receivable Aging & Collection Dashboard](#accounts-receivable-aging-&-collection-dashboard) 
   
 
 
@@ -62,9 +62,9 @@ In this section, I will list accounting projects briefly describing the technolo
 
 ### Accounts Receivable Aging & Collection Dashboard
 
-(ongoing project)
-
 **Link:** 
+
+  - [GitHub Repository](https://github.com/AlifAfiq/Accounts-Receivable-Aging-Collection-Dashboard)
 
 **Description:** A practical project to simulate the management of accounts receivable using aging analysis, helping identify overdue invoices and prioritize collections.
 
