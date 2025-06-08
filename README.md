@@ -39,7 +39,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
 ## Portfolio Projects
 In this section, I will list accounting projects briefly describing the technology stack used to solve cases.
 
-### Small Business Bookkeeping Simulation
+### 1. Small Business Bookkeeping Simulation
 
 (ongoing project)
 
@@ -62,9 +62,9 @@ In this section, I will list accounting projects briefly describing the technolo
 
 **Outcome:** A complete set of simulated books including a trial balance, income statement, and balance sheet, supported with screenshots or exported reports to showcase practical accounting knowledge.
 
+---
 
-
-### Accounts Receivable Aging & Collection Dashboard
+### 2. Accounts Receivable Aging & Collection Dashboard
 
 **Link:** 
 
@@ -86,10 +86,10 @@ In this section, I will list accounting projects briefly describing the technolo
 
 **Outcome:** An interactive dashboard and aging report that highlights overdue accounts and collection status, demonstrating the ability to manage receivables and support cash flow control.
 
-
+---
   
 
-### Tax Computation & Reporting Mini Project
+### 3. Tax Computation & Reporting Mini Project
 
 **Link:** 
 
