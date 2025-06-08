@@ -1,9 +1,13 @@
 # Alif Afiq - Accounting Portfolio
+
+---------
+
 ## About
 With a Bachelor's degree in Accounting and Information Systems, I am building my career at the intersection of accounting practices and technology. This portfolio showcases my skills in financial reporting, internal controls, tax fundamentals, and the use of accounting systems such as SQL Accounting, MYOB, Xero, and AutoCount. My academic training and hands-on projects have equipped me to handle practical accounting scenarios such as journal entries, reconciliations, and reporting. I have applied accounting principles through simulated business cases and am continuously strengthening my understanding of audit procedures, compliance requirements, and financial analysis.
 
 This repository serves as a space to demonstrate my accounting competencies, document project-based learning, and track progress as I grow toward becoming a well-rounded accounting professional.
 
+---------
 
 ## Table of Contents
 
@@ -30,7 +34,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
 - [Education](#education)
 
 
-
+-------------
 
 ## Portfolio Projects
 In this section, I will list accounting projects briefly describing the technology stack used to solve cases.
@@ -46,13 +50,13 @@ In this section, I will list accounting projects briefly describing the technolo
 
 **Skill:**
 
-- Journal entries & double-entry accounting
+- Bookkeeping Automation
+- Inventory Management
+- Sales Tracking
+- Customer & Supplier Records
+- Period-end Closing
+- Financial Statement Generation
 
-- Financial statement preparation
-
-- Period-end closing
-
-- Understanding of full accounting cycle
 
 **Tools:** SQL Accounting / Excel
 
@@ -107,9 +111,7 @@ In this section, I will list accounting projects briefly describing the technolo
 
 **Outcome:** A summarized tax report with supporting calculations, showing clear steps from raw transactions to tax payable—demonstrating awareness of tax processes and compliance requirements.
 
-
-
-
+------------
 
 
 ## Education
@@ -129,7 +131,7 @@ Foundation in Commerce
 
 July 2020 - July 2022
 
-
+-------------
 ## Contacts
 - LinkedIn: [@alifafiq](www.linkedin.com/in/muhammad-alif-afiq-538a2b268)
 - Email: alifafiq504@gmail.com
