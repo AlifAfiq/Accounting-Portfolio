@@ -42,7 +42,7 @@ In this section, I will list accounting projects briefly describing the technolo
 **Link:**
   - [GitHub Repository](https://github.com/AlifAfiq/Small-Business-Bookkeeping-Simulation)
 
-**Description:** A simulation of basic accounting operations for a small business, including recording daily transactions, managing ledgers, and generating financial reports.
+**Description:** This project simulates the core accounting operations of a small business using SQL Accounting and Microsoft Excel. The scenario is based on a fictional café that processes daily sales (cash and credit), purchases raw materials, manages inventory (ingredients and finished goods), and handles basic customer and supplier interactions.
 
 **Skill:**
 
