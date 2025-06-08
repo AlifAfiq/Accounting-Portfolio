@@ -13,11 +13,11 @@ This repository serves as a space to demonstrate my accounting competencies, doc
 
 **Portfolio Projects**
 
-- [Small Business Bookkeeping Simulation](#small-business-bookkeeping-simulation) 
+- [Small Business Bookkeeping Simulation](#small-business-bookkeeping-simulation-using-sql-accounting) 
   
 
 
-- [Accounts Receivable Aging & Collection Dashboard](#accounts-receivable-aging-&-collection-dashboard) 
+- [Financial Reporting & Audit Memorandum using XERO](#financial-reporting-&-audit-memorandum-using-xero) 
   
 
 
@@ -39,7 +39,7 @@ This repository serves as a space to demonstrate my accounting competencies, doc
 ## Portfolio Projects
 In this section, I will list accounting projects briefly describing the technology stack used to solve cases.
 
-### 1. Small Business Bookkeeping Simulation
+### 1. Small Business Bookkeeping Simulation Using SQL Accounting
 
 (ongoing project)
 
@@ -64,27 +64,30 @@ In this section, I will list accounting projects briefly describing the technolo
 
 ---
 
-### 2. Accounts Receivable Aging & Collection Dashboard
+### 2. Financial Reporting & Audit Memorandum using XERO
 
 **Link:** 
 
   - [GitHub Repository](https://github.com/AlifAfiq/Accounts-Receivable-Aging-Collection-Dashboard)
 
-**Description:** A practical project to simulate the management of accounts receivable using aging analysis, helping identify overdue invoices and prioritize collections.
+**Description:** A hands-on project involving the preparation of financial statements using XERO, followed by an audit-style investigation into discrepancies found in the trial balance. The project includes generating a trial balance, income statement, balance sheet, and aged receivables summary, and producing a professional audit memorandum addressing errors in revenue and purchase entries.
+
 
 **Skill:**
 
-- AR management
+- Financial report preparation
 
-- Aging analysis
+- Error investigation and correction
 
-- Data cleaning & reporting
+- Audit documentation and memorandum writing
 
-- Visual presentation of receivables
+- Understanding of revenue and expenditure cycles
 
-**Tools:** Excel / Power BI / SQL Accounting
+- Impact analysis of accounting errors
 
-**Outcome:** An interactive dashboard and aging report that highlights overdue accounts and collection status, demonstrating the ability to manage receivables and support cash flow control.
+**Tools:** XERO Accounting
+
+**Outcome:** A complete set of financial statements and a formal audit memorandum identifying and resolving two accounting errors (unrecorded payment and purchase bill misstatement), demonstrating skills in financial analysis, reconciliation, and internal control awareness.
 
 ---
   
